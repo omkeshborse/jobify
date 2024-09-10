@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Wrapper = styled.section`
   nav {
@@ -31,6 +31,7 @@ const Wrapper = styled.section`
   .register-link {
     margin-right: 1rem;
   }
+
   .main-img {
     display: none;
   }
